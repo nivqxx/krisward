@@ -1,7 +1,7 @@
 # Power Scrum Board, Maura
 Living document. Updated each session.
 
-Last updated: 2026-07-17 (Thu), evening refresh before 9 PM scrum
+Last updated: 2026-07-17 (Fri), evening refresh before 9 PM scrum
 
 ## What got done today
 
@@ -11,7 +11,7 @@ Cristina: asked how many hours she is working, waiting on reply.
 Marie: archived, closed file.
 Friday pulse roll up completed and tracker updated (July column, WhatsApp Pulse tab).
 Follow up emails to members with no weekly action item: skipped this week, will pick up next Friday.
-Blog 1 and LI Newsletter both ready for Kris review.
+Blog 1 ready for Kris review. LI Newsletter posted.
 Sheena bonus session confirmed for Monday 10 PM PH. Needs calendar block and log under Bonus Sessions tab.
 Basecamp check off log: 40+ items cleared in Round 1, one still open (Sarra prompt video checkbox).
 
@@ -71,17 +71,15 @@ Marie: archived
 Still reviewing Nino's Loom video. Takeaways to follow.
 
 ## LinkedIn
-Newsletter written and ready to post.
-Title: AI Won't Replace Your VA, But It Will Expose Something.
-Native LI format, ends with an engagement question.
-Ready for Kris approval to publish.
+Newsletter posted: AI Won't Replace Your VA, But It Will Expose Something.
+Native LI format, ends with an engagement question. Live now.
 
 ## Blog and Shareable Content
 Blog 1 drafted and ready for Kris review: Will AI Replace Your Virtual Assistant?
 Built answer first so AI search like ChatGPT can cite it. On brand, dash free, short line layout.
 SEO pack ready: keyphrase, meta, slug, tags, excerpt.
 Media placement guide inline with image and video markers.
-Blog STK rebuild using SCALE method: in progress.
+Blog STK rebuild using SCALE method: completed.
 
 ## Ideas and Collaboration
 Blog 2 lined up for a series: Can AI Run My Small Business, what to automate vs delegate.
