@@ -52,8 +52,7 @@ Ellysa (leader Rianne)
 1 pulse this week.
 Paused the retreat STK on purpose. Now building the landing page with Rianne for the September fall retreat launch. Not behind.
 
-Silent trio, all quiet since 7/8:
-Wally, Zeych, Gabriel. Same day drop off points to something systemic. Checking before treating as individual.
+Wally, Zeych, Gabriel: all replied back recently. No longer silent.
 
 Closed or graduated, no program access:
 Jade, Novi, Marie (archived today), and Matt's team member on the 917 number. Handling closeouts, see decisions below.
@@ -87,13 +86,13 @@ Persistent pulse log set up so Friday's roll up fills itself going forward.
 Housekeeping: save the 917 and 985 numbers as named contacts.
 
 ## Decisions I need from Kris
-Blog 1 success story: confirm a named client, or approve my composite.
-Which YouTube videos to embed in Blog 1.
-How to close out Jade, Novi, and the 917 person: hard close or soft fade.
-Mae's question: ClickUp vs Basecamp for Nikki's setup.
+Blog 1 success story: moved to next week.
+YouTube videos for Blog 1: Kris not needed, handling it.
+Jade, Novi, and the 917 person closeout: passed to project manager.
+Mae's ClickUp vs Basecamp question: done.
 
 ## Reminders
-Sarra prompt video: still need to watch.
+Sarra prompt video: done.
 Joas gift giving STK: chase if not in by Mon 7/20.
 Sheena bonus session: Monday 10 PM PH. Block calendar, log under Bonus Sessions tab.
 July report cards: pipeline starts Jul 28, target first week of August.
